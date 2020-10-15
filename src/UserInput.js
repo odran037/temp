@@ -34,17 +34,6 @@ function UserInput(props) {
               </InputGroupAddon>
             </InputGroup>
 
-            {/* <Input
-              type="text"
-              value={props.inputValue || ''}
-              onChange={(e) => props.setInputValue(e.target.value)}
-            /> */}
-            {/* <Button
-              color="warning"
-              onClick={() => props.clearValue()}
-            >
-              Clear
-            </Button> */}
             <Button
               block
               size="lg"
